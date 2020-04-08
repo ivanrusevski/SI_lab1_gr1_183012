@@ -60,3 +60,14 @@ class Student {
 			System.out.println("Nema Potpis");
 	}
 }
+class Course{
+	List<String> Students = new ArrayList<String>()
+  public void add(String name){
+
+		Students.add(name);
+
+  }
+
+
+
+		}
